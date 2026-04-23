@@ -5,9 +5,7 @@ menu = input("""Digite a opção desejada:
             2.Conversar com um atendente
             3.Cancelar conta
             4.Opção inválida
-            -----------------------------
-            
-             """)
+""")
 
 if menu == "1":
     print("O extrato estará disponível em seu e-mail")
